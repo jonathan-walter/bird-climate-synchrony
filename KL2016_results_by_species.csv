@@ -1,0 +1,50 @@
+CommonName,MigratoryStatus,trend250,trend500,trend1000
+Northern shrike,2,0.0504,0.0528,0.0444
+Common redpoll,2,0.0378,0.0388,0.0288
+Gray partridge,1,0.0177,0.0214,0.0013
+Belted kingfisher,2,0.0241,0.0184,0.0145
+Killdeer,2,0.0136,0.0152,0.0094
+Ring-billed gull,3,0.0153,0.0148,0.0056
+Golden-crowned kinglet,2,0.0274,0.014,0.0066
+Steller's jay,1,0.0053,0.0135,0.0074
+American robin,2,0.0143,0.0127,0.0125
+Blue jay,2,0.0016,0.0126,0.0075
+American kestrel,2,0.013,0.0114,0.0134
+Great blue heron,2,0.0129,0.0112,0.0084
+White-breasted nuthatch,1,0.0073,0.0106,0.0022
+American coot,2,0.0083,0.0104,0.0099
+Yellow-rumped warbler,3,0.0223,0.0102,0.0004
+Yellow-bellied sapsucker,3,0.0178,0.0101,0.0021
+Eastern bluebird,2,0.0166,0.01,0.0042
+Red-breasted nuthatch,2,0.0188,0.0088,0.0068
+Eurpean starling,1,0.0055,0.0086,0.0019
+Snow bunting,3,0.0109,0.0076,0.0083
+Bohemian waxwing,2,0.0097,0.0076,0.0019
+Tufted titmouse,1,0.0068,0.0066,0.0065
+Cedar waxwing,2,0.0134,0.0057,0.0011
+Purple finch,2,0.0008,0.0056,0.0054
+Pied-billed grebe,2,0.0083,0.0055,0.0029
+Pine grosbeak,2,0.0004,0.0049,0.0053
+Pine siskin,2,-0.0167,0.0039,0.0136
+Horned lark,2,0.0039,0.0037,0.002
+Black-capped chickadee,1,0.002,0.0032,-0.0078
+American tree sparrow,3,0.0008,0.0008,0.0031
+American goldfinch,2,-0.0005,0.0005,-0.005
+Hermit thrush,3,-0.0036,-0.0002,0.0091
+Say's phoebe,3,-0.0188,-0.0007,0.004
+Carolina wren,1,0.0079,-0.001,-0.008
+Screech owl,1,-0.0066,-0.0014,-0.0015
+Downy woodpecker,1,0.0037,-0.0023,0.0001
+Ruby-crownd kinglet,3,0.0064,-0.0025,-0.0059
+Winter wren,2,-0.0069,-0.0028,-0.005
+Northern harrier,2,0.0047,-0.0047,-0.0035
+Brown creeper,2,0.0001,-0.0057,-0.0049
+Northern mockingbird,2,-0.0134,-0.0077,-0.0018
+White-throated sparrow,3,-0.0158,-0.0109,-0.0088
+Song sparrow,2,-0.0145,-0.0111,-0.0102
+Mourning dove,2,-0.0118,-0.0114,-0.0075
+Dark-eyed junco,2,-0.0255,-0.0155,-0.0084
+House finch,1,-0.0185,-0.0163,0.0016
+Northern cardinal,1,-0.0181,-0.0191,-0.0151
+Varied thrush,2,-0.0356,-0.0481,-0.0749
+Evening grosbeak,3,-0.0883,-0.0733,-0.0613
